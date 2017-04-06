@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.fixed",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Fixed Utility",
   "main": "stylesheets/_utility-fixed.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-fixed",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
